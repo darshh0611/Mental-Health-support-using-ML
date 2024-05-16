@@ -30,19 +30,19 @@ e. Gamification Elements: Incorporate gamification elements to make the app more
 
 # 4. Dataset
 
-The data set used for training the data is [data.csv](ML\dataset\data.csv).
-Other datasets in the dataset folder were used initially and the [data.csv](ML\dataset\data.csv) is made in reference to those datasets.
+The data set used for training the data is [data.csv](ML/dataset/data.csv).
+Other datasets in the dataset folder were used initially and the [data.csv](ML/dataset/data.csv) is made in reference to those datasets.
 
 # 5. Model
 
-The model used to detecting the mental health score is [final.pkl](ML\models\final.pkl)
+The model used to detecting the mental health score is [final.pkl](ML/models/final.pkl)
 All the other models in the models directory were used earlier and was replaced by this single file.
 
-The training notebook is [training.ipynb](ML\training.ipynb), contains all the pre-processing and training and testing code.
+The training notebook is [training.ipynb](ML/training.ipynb), contains all the pre-processing and training and testing code.
 
 # 6. Server
 
-The model is run through the [flask_server.py](ML\flask_server.py), make sure to change the loaded model's path before running. 
+The model is run through the [flask_server.py](ML/flask_server.py), make sure to change the loaded model's path before running. 
 
 The server for integrating model with mobile app is run through ngrok, located in gitignore for this branch.
 For details checkout their official documentation.
