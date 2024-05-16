@@ -1,0 +1,41 @@
+Description,Stress Level
+Change in activity levels,7
+Decreased efficiency and effectiveness,6
+Difficulty communicating,5
+Increased sense of humor/gallows humor,3
+"Irritability, outbursts of anger, frequent arguments",8
+"Inability to rest, relax or let down",9
+Change in eating habits,4
+Change in sleep patterns,7
+Change in activity performance,6
+Periods of crying,8
+"Increased use of tobacco, alcohol, drugs, sugar or caffeine",9
+Hyper-vigilance about safety or the surrounding environment,8
+Avoidance of activities or places that trigger memories,6
+Accident prone,7
+Other,5
+"Change in activity levels, Difficulty communicating, Increased use of tobacco, alcohol, drugs, sugar or caffeine",8
+"Decreased efficiency and effectiveness, Inability to rest, relax or let down, Change in eating habits",8
+"Change in sleep patterns, Increased sense of humor/gallows humor, Avoidance of activities or places that trigger memories",7
+"Irritability, outbursts of anger, frequent arguments, Change in activity performance, Periods of crying",8
+"Difficulty communicating, Increased use of tobacco, alcohol, drugs, sugar or caffeine, Hyper-vigilance about safety or the surrounding environment",7
+"Change in activity levels, Change in eating habits, Increased sense of humor/gallows humor, Accident prone",8
+"Decreased efficiency and effectiveness, Change in sleep patterns, Periods of crying, Avoidance of activities or places that trigger memories",7
+"Irritability, outbursts of anger, frequent arguments, Inability to rest, relax or let down, Hyper-vigilance about safety or the surrounding environment",9
+"Change in activity performance, Increased use of tobacco, alcohol, drugs, sugar or caffeine, Accident prone, Change in activity levels",8
+"Difficulty communicating, Change in sleep patterns, Change in eating habits, Increased sense of humor/gallows humor",7
+"Increased use of tobacco, alcohol, drugs, sugar or caffeine, Inability to rest, relax or let down, Change in activity performance",8
+"Hyper-vigilance about safety or the surrounding environment, Change in activity levels, Periods of crying, Irritability, outbursts of anger, frequent arguments",9
+"Avoidance of activities or places that trigger memories, Decreased efficiency and effectiveness, Increased sense of humor/gallows humor, Change in eating habits",8
+"Accident prone, Change in sleep patterns, Difficulty communicating, Increased use of tobacco, alcohol, drugs, sugar or caffeine",8
+"Change in activity performance, Change in activity levels, Inability to rest, relax or let down, Periods of crying",8
+"Increased sense of humor/gallows humor, Change in sleep patterns, Difficulty communicating, Change in eating habits",7
+"Inability to rest, relax or let down, Change in activity performance, Avoidance of activities or places that trigger memories, Accident prone",8
+"Change in eating habits, Increased use of tobacco, alcohol, drugs, sugar or caffeine, Change in activity levels, Difficulty communicating",8
+"Periods of crying, Hyper-vigilance about safety or the surrounding environment, Increased sense of humor/gallows humor, Irritability, outbursts of anger, frequent arguments",9
+"Change in activity levels, Change in sleep patterns, Increased use of tobacco, alcohol, drugs, sugar or caffeine, Avoidance of activities or places that trigger memories",8
+"Difficulty communicating, Inability to rest, relax or let down, Accident prone, Change in activity performance",8
+"Irritability, outbursts of anger, frequent arguments, Change in eating habits, Periods of crying, Increased sense of humor/gallows humor",8
+"Avoidance of activities or places that trigger memories, Change in sleep patterns, Change in activity levels, Difficulty communicating",7
+"Accident prone, Increased use of tobacco, alcohol, drugs, sugar or caffeine, Change in eating habits, Inability to rest, relax or let down",8
+"Change in activity performance, Periods of crying, Hyper-vigilance about safety or the surrounding environment, Change in sleep patterns",8

@@ -1,0 +1,4 @@
+# Ignore directories
+__pycache__/
+ng/
+venv/

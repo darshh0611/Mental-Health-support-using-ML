@@ -1,0 +1,93 @@
+Description,Stress Level
+Study workload,8
+Grades,9
+"Financial pressure (e.g. tuition, living costs)",7
+Work (and Study) - Life balance,8
+Relationship with (some) faculty members,6
+Relationship with other students,7
+Campus social life,5
+Other,6
+"Study workload, Grades",8.5
+"Study workload, Financial pressure",7.5
+"Study workload, Work-Life balance",8
+"Study workload, Relationship with faculty",7
+"Study workload, Relationship with students",7.5
+"Study workload, Campus social life",6.5
+"Study workload, Other",7
+"Grades, Financial pressure",8
+"Grades, Work-Life balance",8.5
+"Grades, Relationship with faculty",7.5
+"Grades, Relationship with students",8
+"Grades, Campus social life",7
+"Grades, Other",7.5
+"Financial pressure, Work-Life balance",7
+"Financial pressure, Relationship with faculty",6.5
+"Financial pressure, Relationship with students",7
+"Financial pressure, Campus social life",6
+"Financial pressure, Other",6.5
+"Work-Life balance, Relationship with faculty",7
+"Work-Life balance, Relationship with students",7.5
+"Work-Life balance, Campus social life",6.5
+"Work-Life balance, Other",7
+"Relationship with faculty, Relationship with students",7
+"Relationship with faculty, Campus social life",6.5
+"Relationship with faculty, Other",6.5
+"Relationship with students, Campus social life",7
+"Relationship with students, Other",7
+"Campus social life, Other",6.5
+"Study workload, Grades, Financial pressure",9
+"Study workload, Grades, Work-Life balance",9.5
+"Study workload, Grades, Relationship with faculty",8.5
+"Study workload, Grades, Relationship with students",9
+"Study workload, Grades, Campus social life",8
+"Study workload, Grades, Other",8.5
+"Study workload, Financial pressure, Work-Life balance",8
+"Study workload, Financial pressure, Relationship with faculty",7.5
+"Study workload, Financial pressure, Relationship with students",8
+"Study workload, Financial pressure, Campus social life",7
+"Study workload, Financial pressure, Other",7.5
+"Study workload, Work-Life balance, Relationship with faculty",8
+"Study workload, Work-Life balance, Relationship with students",8.5
+"Study workload, Work-Life balance, Campus social life",7.5
+"Study workload, Work-Life balance, Other",8
+"Study workload, Relationship with faculty, Relationship with students",8
+"Study workload, Relationship with faculty, Campus social life",7.5
+"Study workload, Relationship with faculty, Other",7.5
+"Study workload, Relationship with students, Campus social life",8
+"Study workload, Relationship with students, Other",8
+"Study workload, Campus social life, Other",7.5
+"Grades, Financial pressure, Work-Life balance",8.5
+"Grades, Financial pressure, Relationship with faculty",8
+"Grades, Financial pressure, Relationship with students",8.5
+"Grades, Financial pressure, Campus social life",7.5
+"Grades, Financial pressure, Other",8
+"Grades, Work-Life balance, Relationship with faculty",8
+"Grades, Work-Life balance, Relationship with students",8.5
+"Grades, Work-Life balance, Campus social life",7.5
+"Grades, Work-Life balance, Other",8
+"Grades, Relationship with faculty, Relationship with students",8
+"Grades, Relationship with faculty, Campus social life",7.5
+"Grades, Relationship with faculty, Other",7.5
+"Grades, Relationship with students, Campus social life",8
+"Grades, Relationship with students, Other",8
+"Grades, Campus social life, Other",7.5
+"Financial pressure, Work-Life balance, Relationship with faculty",7.5
+"Financial pressure, Work-Life balance, Relationship with students",8
+"Financial pressure, Work-Life balance, Campus social life",7
+"Financial pressure, Work-Life balance, Other",7.5
+"Financial pressure, Relationship with faculty, Relationship with students",7.5
+"Financial pressure, Relationship with faculty, Campus social life",7
+"Financial pressure, Relationship with faculty, Other",7
+"Financial pressure, Relationship with students, Campus social life",7.5
+"Financial pressure, Relationship with students, Other",7
+"Financial pressure, Campus social life, Other",6.5
+"Work-Life balance, Relationship with faculty, Relationship with students",7.5
+"Work-Life balance, Relationship with faculty, Campus social life",7
+"Work-Life balance, Relationship with faculty, Other",7
+"Work-Life balance, Relationship with students, Campus social life",7.5
+"Work-Life balance, Relationship with students, Other",7
+"Work-Life balance, Campus social life, Other",6.5
+"Relationship with faculty, Relationship with students, Campus social life",7.5
+"Relationship with faculty, Relationship with students, Other",7
+"Relationship with faculty, Campus social life, Other",6.5
+"Relationship with students, Campus social life, Other",7

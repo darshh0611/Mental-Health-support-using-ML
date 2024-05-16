@@ -1,0 +1,177 @@
+Description,Stress Level
+Eating,4
+Sleeping,5
+Drinking,8
+Drugs,10
+Sports / Exercise,7
+Talking with Someone,6
+Shopping,3
+Computer Games,4
+Social Media,7
+None of the Above,2
+Other,4
+"Eating, Sleeping",4.5
+"Eating, Drinking",6
+"Eating, Drugs",7
+"Eating, Sports / Exercise",5.5
+"Eating, Talking with Someone",5
+"Eating, Shopping",3.5
+"Eating, Computer Games",4
+"Eating, Social Media",5.5
+"Eating, Other",4
+"Sleeping, Drinking",6.5
+"Sleeping, Drugs",7.5
+"Sleeping, Sports / Exercise",6
+"Sleeping, Talking with Someone",5.5
+"Sleeping, Shopping",4
+"Sleeping, Computer Games",4.5
+"Sleeping, Social Media",6
+"Sleeping, Other",4.5
+"Drinking, Drugs",9
+"Drinking, Sports / Exercise",7.5
+"Drinking, Talking with Someone",7
+"Drinking, Shopping",5.5
+"Drinking, Computer Games",6
+"Drinking, Social Media",7.5
+"Drinking, Other",6
+"Drugs, Sports / Exercise",8.5
+"Drugs, Talking with Someone",8
+"Drugs, Shopping",5.5
+"Drugs, Computer Games",7
+"Drugs, Social Media",8.5
+"Drugs, Other",6
+"Sports / Exercise, Talking with Someone",6.5
+"Sports / Exercise, Shopping",5
+"Sports / Exercise, Computer Games",5.5
+"Sports / Exercise, Social Media",7
+"Sports / Exercise, Other",5.5
+"Talking with Someone, Shopping",4.5
+"Talking with Someone, Computer Games",5
+"Talking with Someone, Social Media",6.5
+"Talking with Someone, Other",5
+"Shopping, Computer Games",3.5
+"Shopping, Social Media",5
+"Shopping, Other",3.5
+"Computer Games, Social Media",5.5
+"Computer Games, Other",4
+"Social Media, Other",5.5
+"Eating, Sleeping, Drinking",5.67
+"Eating, Sleeping, Drugs",6.33
+"Eating, Sleeping, Sports / Exercise",5
+"Eating, Sleeping, Talking with Someone",4.67
+"Eating, Sleeping, Shopping",4
+"Eating, Sleeping, Computer Games",4.33
+"Eating, Sleeping, Social Media",5.33
+"Eating, Sleeping, Other",4.33
+"Eating, Drinking, Drugs",7.33
+"Eating, Drinking, Sports / Exercise",5.67
+"Eating, Drinking, Talking with Someone",5.33
+"Eating, Drinking, Shopping",4.33
+"Eating, Drinking, Computer Games",4.67
+"Eating, Drinking, Social Media",5.67
+"Eating, Drinking, Other",4.67
+"Eating, Drugs, Sports / Exercise",8
+"Eating, Drugs, Talking with Someone",6.67
+"Eating, Drugs, Shopping",4.33
+"Eating, Drugs, Computer Games",5.67
+"Eating, Drugs, Social Media",7
+"Eating, Drugs, Other",4.67
+"Eating, Sports / Exercise, Talking with Someone",5.33
+"Eating, Sports / Exercise, Shopping",3.67
+"Eating, Sports / Exercise, Computer Games",4
+"Eating, Sports / Exercise, Social Media",5.67
+"Eating, Sports / Exercise, Other",4.33
+"Eating, Talking with Someone, Shopping",3.67
+"Eating, Talking with Someone, Computer Games",4
+"Eating, Talking with Someone, Social Media",5.33
+"Eating, Talking with Someone, Other",4.33
+"Eating, Shopping, Computer Games",3.33
+"Eating, Shopping, Social Media",4.67
+"Eating, Shopping, Other",3.67
+"Eating, Computer Games, Social Media",4.67
+"Eating, Computer Games, Other",3.67
+"Eating, Social Media, Other",4.67
+"Sleeping, Drinking, Drugs",7.67
+"Sleeping, Drinking, Sports / Exercise",6
+"Sleeping, Drinking, Talking with Someone",5.67
+"Sleeping, Drinking, Shopping",4.67
+"Sleeping, Drinking, Computer Games",5
+"Sleeping, Drinking, Social Media",6.67
+"Sleeping, Drinking, Other",5.67
+"Sleeping, Drugs, Sports / Exercise",8.33
+"Sleeping, Drugs, Talking with Someone",7
+"Sleeping, Drugs, Shopping",4.67
+"Sleeping, Drugs, Computer Games",6
+"Sleeping, Drugs, Social Media",7.33
+"Sleeping, Drugs, Other",5.67
+"Sleeping, Sports / Exercise, Talking with Someone",6.33
+"Sleeping, Sports / Exercise, Shopping",4.67
+"Sleeping, Sports / Exercise, Computer Games",5
+"Sleeping, Sports / Exercise, Social Media",6.67
+"Sleeping, Sports / Exercise, Other",5.33
+"Sleeping, Talking with Someone, Shopping",4.67
+"Sleeping, Talking with Someone, Computer Games",5
+"Sleeping, Talking with Someone, Social Media",6.33
+"Sleeping, Talking with Someone, Other",5
+"Sleeping, Shopping, Computer Games",4
+"Sleeping, Shopping, Social Media",5.33
+"Sleeping, Shopping, Other",4.33
+"Sleeping, Computer Games, Social Media",5.33
+"Sleeping, Computer Games, Other",4.33
+"Sleeping, Social Media, Other",5.33
+"Drinking, Drugs, Sports / Exercise",8.33
+"Drinking, Drugs, Talking with Someone",7
+"Drinking, Drugs, Shopping",5
+"Drinking, Drugs, Computer Games",6.33
+"Drinking, Drugs, Social Media",7.67
+"Drinking, Drugs, Other",6.33
+"Drinking, Sports / Exercise, Talking with Someone",6.67
+"Drinking, Sports / Exercise, Shopping",5
+"Drinking, Sports / Exercise, Computer Games",5.33
+"Drinking, Sports / Exercise, Social Media",6.67
+"Drinking, Sports / Exercise, Other",5.33
+"Drinking, Talking with Someone, Shopping",4.67
+"Drinking, Talking with Someone, Computer Games",5
+"Drinking, Talking with Someone, Social Media",6.33
+"Drinking, Talking with Someone, Other",5
+"Drinking, Shopping, Computer Games",4.33
+"Drinking, Shopping, Social Media",5.67
+"Drinking, Shopping, Other",4.67
+"Drinking, Computer Games, Social Media",5.67
+"Drinking, Computer Games, Other",4.67
+"Drinking, Social Media, Other",5.67
+"Drugs, Sports / Exercise, Talking with Someone",7.67
+"Drugs, Sports / Exercise, Shopping",6.33
+"Drugs, Sports / Exercise, Computer Games",6.67
+"Drugs, Sports / Exercise, Social Media",8
+"Drugs, Sports / Exercise, Other",6.33
+"Drugs, Talking with Someone, Shopping",5.67
+"Drugs, Talking with Someone, Computer Games",6
+"Drugs, Talking with Someone, Social Media",7.33
+"Drugs, Talking with Someone, Other",5.67
+"Drugs, Shopping, Computer Games",4.67
+"Drugs, Shopping, Social Media",6
+"Drugs, Shopping, Other",5
+"Drugs, Computer Games, Social Media",6.33
+"Drugs, Computer Games, Other",5
+"Drugs, Social Media, Other",6
+"Sports / Exercise, Talking with Someone, Shopping",4.33
+"Sports / Exercise, Talking with Someone, Computer Games",4.67
+"Sports / Exercise, Talking with Someone, Social Media",6
+"Sports / Exercise, Talking with Someone, Other",4.67
+"Sports / Exercise, Shopping, Computer Games",3.67
+"Sports / Exercise, Shopping, Social Media",5
+"Sports / Exercise, Shopping, Other",4
+"Sports / Exercise, Computer Games, Social Media",5
+"Sports / Exercise, Computer Games, Other",4
+"Sports / Exercise, Social Media, Other",5
+"Talking with Someone, Shopping, Computer Games",3.67
+"Talking with Someone, Shopping, Social Media",5
+"Talking with Someone, Shopping, Other",4
+"Talking with Someone, Computer Games, Social Media",4.67
+"Talking with Someone, Computer Games, Other",4
+"Talking with Someone, Social Media, Other",5
+"Shopping, Computer Games, Social Media",4.33
+"Shopping, Computer Games, Other",3.67
+"Shopping, Social Media, Other",4.67
+"Computer Games, Social Media, Other",4.67

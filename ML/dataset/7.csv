@@ -1,0 +1,60 @@
+Description,Stress Level
+Memory problems/forgetfulness,8
+Disorientation,7
+Confusion,8
+"Slowness in thinking, analyzing, or comprehending",9
+"Difficulty calculating, setting priorities or making decisions",5
+Difficulty Concentrating,9
+Limited attention span,6
+Loss of objectivity,4
+Inability to stop thinking about the disaster or an incident,8
+None of the Above,3
+Other,4
+Memory problems/forgetfulness; Difficulty Concentrating,6
+Disorientation; Limited attention span,7
+Confusion; Loss of objectivity,8
+"Slowness in thinking, analyzing, or comprehending; Inability to stop thinking about the disaster or an incident",9
+"Difficulty calculating, setting priorities or making decisions; None of the Above",4
+Difficulty Concentrating; Other,5
+Memory problems/forgetfulness; Confusion,6
+Disorientation; Inability to stop thinking about the disaster or an incident,7
+"Slowness in thinking, analyzing, or comprehending; None of the Above",4
+"Difficulty calculating, setting priorities or making decisions; Other",6
+Memory problems/forgetfulness; Loss of objectivity,7
+Confusion; Inability to stop thinking about the disaster or an incident,8
+Difficulty Concentrating; None of the Above,3
+Disorientation; Other,6
+"Slowness in thinking, analyzing, or comprehending; Limited attention span",8
+"Difficulty calculating, setting priorities or making decisions; Loss of objectivity",8
+Memory problems/forgetfulness; None of the Above,5
+Confusion; Other,7
+Difficulty Concentrating; Inability to stop thinking about the disaster or an incident,8
+Limited attention span; None of the Above,4
+Loss of objectivity; Other,6
+Inability to stop thinking about the disaster or an incident; None of the Above,5
+Memory problems/forgetfulness; Other,6
+Disorientation; Loss of objectivity,8
+Disorientation; Difficulty Concentrating,7
+"Confusion; Difficulty calculating, setting priorities or making decisions",8
+"Slowness in thinking, analyzing, or comprehending; Loss of objectivity",9
+Difficulty Concentrating; Inability to stop thinking about the disaster or an incident,6
+Disorientation; Confusion,7
+"Slowness in thinking, analyzing, or comprehending; Limited attention span",10
+"Difficulty calculating, setting priorities or making decisions; Loss of objectivity",8
+Memory problems/forgetfulness; None of the Above,5
+Confusion; Inability to stop thinking about the disaster or an incident,8
+Limited attention span; None of the Above,4
+Loss of objectivity; Other,6
+Inability to stop thinking about the disaster or an incident; None of the Above,8
+Memory problems/forgetfulness; Other,6
+Disorientation; Loss of objectivity,8
+Difficulty Concentrating; None of the Above,3
+"Memory problems/forgetfulness; Slowness in thinking, analyzing, or comprehending",9
+Confusion; Other,7
+"Slowness in thinking, analyzing, or comprehending; Confusion",8
+Disorientation; Inability to stop thinking about the disaster or an incident,7
+"Slowness in thinking, analyzing, or comprehending; Other",5
+Difficulty Concentrating; Limited attention span,9
+"Disorientation; Difficulty Concentrating; Slowness in thinking, analyzing, or comprehending",10
+"Confusion; Difficulty calculating, setting priorities or making decisions; Loss of objectivity",9
+"Slowness in thinking, analyzing, or comprehending; Loss of objectivity; Other",10

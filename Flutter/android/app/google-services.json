@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "44925733920",
+    "project_id": "mental-health-assistant-bf1df",
+    "storage_bucket": "mental-health-assistant-bf1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44925733920:android:ee4e0aef59f7ac4e6c4045",
+        "android_client_info": {
+          "package_name": "com.example.ipd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44925733920-ch2kbmngbgeg136hdo2o84inj7e7snju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnrOhETQl2KIeAuFKbyUHTjQ3qhRWgwmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44925733920-ch2kbmngbgeg136hdo2o84inj7e7snju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44925733920-2dd9dpcrjqieuhm8kohnkvo7esu9rclo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ipd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44925733920:android:c7e92314793804016c4045",
+        "android_client_info": {
+          "package_name": "mental.health.assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44925733920-ch2kbmngbgeg136hdo2o84inj7e7snju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnrOhETQl2KIeAuFKbyUHTjQ3qhRWgwmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44925733920-ch2kbmngbgeg136hdo2o84inj7e7snju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44925733920-2dd9dpcrjqieuhm8kohnkvo7esu9rclo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ipd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
